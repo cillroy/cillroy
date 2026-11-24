@@ -1,6 +1,6 @@
 # Hi, I'm Curt 👋
 
-I take big AI ideas and turn them into shipped products. Across Box, Amazon, Microsoft, Electronic Arts, and 343 Industries, I've led programs spanning AI products, developer platforms, and games.
+I take big AI ideas and turn them into shipped products, leading cross-org programs across AI products, developer platforms and ecosystems, and games. I started as a developer and I still build, mostly small apps and games made with AI agents.
 
 I started as a developer and I still build. These days that mostly means small apps and games made with AI agents.
 
